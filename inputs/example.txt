@@ -1,0 +1,1 @@
+Example input file for LZW compression
